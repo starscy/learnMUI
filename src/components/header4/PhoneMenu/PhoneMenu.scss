@@ -1,0 +1,14 @@
+.phoneMenu {
+  &__icon {
+    align-self: center;
+    stroke-width: 2px;
+  }
+
+  &__phone {
+    display: flex;
+  }
+
+  p>svg{
+    align-self: end;
+  }
+}

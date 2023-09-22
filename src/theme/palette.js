@@ -3,6 +3,7 @@ import { alpha } from '@mui/material/styles';
 // ----------------------------------------------------------------------
 
 // SETUP COLORS
+// eslint-disable-next-line react-refresh/only-export-components
 const GREY = {
   0: '#FFFFFF',
   100: '#F9FAFB',

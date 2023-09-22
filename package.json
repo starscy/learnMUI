@@ -14,11 +14,16 @@
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "@faker-js/faker": "^8.1.0",
     "@iconify/react": "^4.1.1",
-    "@mui/lab": "^5.0.0-alpha.144",
-    "@mui/material": "^5.14.9",
+    "@mui/icons-material": "^5.14.9",
+    "@mui/lab": "^5.0.0-alpha.145",
+    "@mui/material": "^5.14.10",
     "@testing-library/user-event": "^14.5.0",
+    "change-case": "^4.1.2",
+    "date-fns": "^2.30.0",
     "lodash": "^4.17.21",
+    "material-ui-flags": "^1.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

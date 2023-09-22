@@ -7,7 +7,7 @@ import TrackDeliveryBtn from "./trackDeliveryBtn/TrackDeliveryBtn";
 // import CommonMenu from "../ui/Menu/CommonMenu";
 // import PhoneMenu from "./PhoneMenu/PhoneMenu";
 
-const Header = () => {
+const Header1 = () => {
 
     return (
         <Grid container className={styles.header}>
@@ -30,4 +30,4 @@ const Header = () => {
     );
 }
 
-export default Header;
+export default Header1;
